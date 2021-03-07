@@ -1,7 +1,11 @@
 {
-	"description": "Python scripting in Volt.",
 	"id": "voltpy",
-	"publisher": "Volt Engine",
+	"version": "1.0.0",
+	"engineVersion": "1.0.0",
 	"title": "Volt Py",
-	"version": "1.0.0"
+	"description": "Python scripting in Volt.",
+	"publisher": "Volt Engine",
+	"targets": [
+		"voltpy"
+	]
 }
