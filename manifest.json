@@ -1,12 +1,13 @@
 {
-	"dependencies": [
-		"volt:0.1.0"
-	],
 	"description": "Python scripting in Volt.",
 	"git": "https://github.com/voltengine/voltpy/",
 	"id": "voltpy",
 	"license": "MIT",
 	"publisher": "Volt Engine",
-	"title": "Volt Py",
-	"version": "0.1.0"
+	"releaseDependencies": {
+		"0.1.0": [
+			"volt:0.1.0"
+		]
+	},
+	"title": "Volt Py"
 }
