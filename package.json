@@ -5,6 +5,11 @@
 	"description": "Python scripting in Volt.",
 	"git": "https://github.com/voltengine/voltpy/",
 	"id": "voltpy",
+	"keywords": [
+		"python",
+		"scripting",
+		"volt"
+	],
 	"license": "MIT",
 	"publisher": "Volt Engine",
 	"title": "Volt Py",
