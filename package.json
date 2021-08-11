@@ -1,7 +1,7 @@
 {
 	"dependencies": {
-		"voltengine/volt": "0.1"
-	},	
+		"voltengine/volt": "0.1.1"
+	},
 	"description": "Python scripting in Volt.",
 	"git": "https://github.com/voltengine/voltpy.git",
 	"id": "voltengine/voltpy",
